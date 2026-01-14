@@ -1,0 +1,9 @@
+{
+  "name": "Deaf-Care Healthcare Initiative",
+  "description": "A comprehensive accessible communication tool featuring text-to-ASL gloss translation and live voice-to-text transcription for South Africa.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
